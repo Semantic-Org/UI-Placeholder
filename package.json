@@ -1,0 +1,17 @@
+{
+  "name": "semantic-ui-placeholder",
+  "version": "2.4.0",
+  "title": "Semantic UI - Placeholder",
+  "description": "Single component release of placeholder",
+  "homepage": "http://www.semantic-ui.com",
+  "author": "Jack Lukic <jack@semantic-ui.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semantic-Org/UI-Placeholder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+  },
+  "devDependencies": {}
+}
